@@ -1,3 +1,5 @@
+///Um programa que verifica a quantidade de dias trabalhados e o valor que o funcionario recebe na diaria e imprime se ele é apito a receber uma cesta
+
 #include <stdio.h>
 
 int main()
