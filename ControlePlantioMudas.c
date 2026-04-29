@@ -1,3 +1,4 @@
+// Calcula a quantidade de meses necessária para finalizar o plantio total de mudas com base em uma meta mensal.
 #include <stdio.h>
 
 int main()
