@@ -1,3 +1,5 @@
+// Gerencia a seleção de serviços de barbearia e estética, aplicando promoções de combos e cupons de desconto.
+
 #include <stdio.h>
 
 int main()
