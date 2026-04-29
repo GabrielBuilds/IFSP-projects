@@ -1,3 +1,5 @@
+// Processa pagamentos aplicando desconto de 10% para compras à vista ou calculando o valor das parcelas para compras a prazo.
+
 #include <stdio.h>
 
 int main()
