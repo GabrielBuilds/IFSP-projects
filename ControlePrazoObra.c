@@ -1,3 +1,5 @@
+// Compara o prazo previsto de uma obra com a soma real dos dias de cada etapa para calcular adiantamento ou atraso.
+
 #include <stdio.h>
 
 int main()
