@@ -1,3 +1,5 @@
+// Calcula o valor total do frete somando as taxas baseadas no peso da carga e na distância percorrida.
+
 #include <stdio.h>
 
 int main()
