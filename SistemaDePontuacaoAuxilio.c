@@ -1,3 +1,5 @@
+// Calcula a pontuação e o ano de recebimento de auxílio com base em critérios socioeconômicos familiares.
+
 #include <stdio.h>
 
 int main()
