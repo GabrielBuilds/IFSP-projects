@@ -1,3 +1,4 @@
+// Calcula o custo total de sacos de cimento e calcário, aplicando taxas de frete variáveis conforme o valor da compra.
 #include <stdio.h>
 
 int main()
@@ -22,9 +23,9 @@ int main()
     Resultado = Soma1 + Soma2;
 
     if (Resultado >= 1000){
-        printf("O valor total a ser pago com o frete � de R$%.2f", Resultado + 50);
+        printf("O valor total a ser pago com o frete  de R$%.2f", Resultado + 50);
     }else{
-        printf("O valor total a ser pago com o frete � de R$%.2f", Resultado + 100);
+        printf("O valor total a ser pago com o frete  de R$%.2f", Resultado + 100);
     }
 
 }
