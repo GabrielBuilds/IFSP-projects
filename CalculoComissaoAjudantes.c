@@ -1,3 +1,5 @@
+// Define a porcentagem de pagamento de dois ajudantes com base em quem trabalhou por mais dias.
+
 #include <stdio.h>
 
 int main()
