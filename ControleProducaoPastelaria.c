@@ -1,3 +1,5 @@
+// Calcula o estoque restante de farinha e a capacidade de produção adicional de pastéis após as vendas do dia.
+
 #include <stdio.h>
 
 int main()
