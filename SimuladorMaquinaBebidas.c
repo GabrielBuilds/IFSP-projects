@@ -1,3 +1,5 @@
+// Simula o funcionamento de uma máquina de vendas, validando o saldo inserido e calculando o troco para diferentes bebidas.
+
 #include <stdio.h>
 
 int main()
