@@ -1,3 +1,5 @@
+// Calcula o consumo médio do veículo e a autonomia restante com base no combustível disponível no tanque.
+
 #include <stdio.h>
 
 int main()
