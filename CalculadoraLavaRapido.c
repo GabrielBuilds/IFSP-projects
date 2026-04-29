@@ -1,3 +1,5 @@
+// Calcula o valor total de serviços de lava-rápido com base no tipo de veículo, tipo de lavagem e serviço de leva e traz.
+
 #include <stdio.h>
 
 int main()
