@@ -1,3 +1,5 @@
+// Avalia o perfil do condutor e do veículo para calcular a porcentagem de desconto acumulada na apólice de seguro.
+
 #include <stdio.h>
 
 int main()
